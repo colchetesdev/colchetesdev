@@ -48,15 +48,6 @@
 
   
 
-  <h2 style="color:#00d9ff; text-shadow: 0 0 10px #00d9ff;">📊 GitHub Stats</h2>
-
-  <p align="center">
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=colchetesdev&show_icons=true&theme=tokyonight&hide_border=true" 
-      height="170"
-    />
-  </p>
-
   <br/><br/>
 
   </div>
