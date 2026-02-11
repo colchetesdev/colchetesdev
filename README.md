@@ -22,7 +22,11 @@
   <h2 style="color:#00d9ff; text-shadow: 0 0 10px #00d9ff;">💻 About Me</h2>
   <p>
     <strong>Systems Development — Etec Sales Gomes</strong><br/>
-    Studying UI, front-end frameworks, and API development.
+    Algorithm, Database, UI/UX, front-end frameworks and API development.
+  </p>
+  <p>
+    <strong>Systems Analysis and Development - Fatec Tatuí</strong>
+    Studying programming concepts, Mobile languages
   </p>
 
   <br/>
