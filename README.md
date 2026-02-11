@@ -25,7 +25,7 @@
     Algorithm, Database, UI/UX, front-end frameworks and API development.
   </p>
   <p>
-    <strong>Systems Analysis and Development - Fatec Tatuí</strong>
+    <strong>Systems Analysis and Development - Fatec Tatuí</strong><br/>
     Studying programming concepts, Mobile languages
   </p>
 
