@@ -4,7 +4,7 @@
 
   <br/>
   <img 
-    src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=FFF&center=true&vCenter=true&width=360&lines=%Hey%2C+I'm+Matheus+Cavalcanti%"
+    src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=FFF&center=true&vCenter=true&width=360&lines=Hey%2C+I'm+Matheus+Cavalcanti"
   />
   <br/><br/>
 
