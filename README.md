@@ -45,7 +45,7 @@
   <br/>
   <h2 style="color:#00d9ff; text-shadow: 0 0 10px #00d9ff;">⚙️ Technologies</h2>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,vue,npm,mysql,php,laravel" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,vue,react,npm,mysql,php,laravel" />
   </p>
 
   <br/>
